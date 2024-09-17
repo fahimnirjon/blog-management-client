@@ -76,7 +76,7 @@ const AddBlog = () => {
     <div>
       <div className="flex flex-col justify-center items-center">
         <Helmet>
-          <title>MovieGhor | Add Blog</title>
+          <title>Cholochittro Kothon | Add Blog</title>
         </Helmet>
         <h2 className=" text_pri lg:text-4xl text-2xl lg:my-10 my-7 font-bold text-center">
           Add Blog
