@@ -50,5 +50,5 @@ npm run dev
 
 - [LinkedIn]
 
-- [Facebook]
+- [Facebook](https://www.facebook.com/fahimshahriar.nirjon)
 - [Twitter](https://x.com/Fahim_Nirjon04)
