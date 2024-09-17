@@ -32,7 +32,7 @@ function Header() {
             {/* nav title  */}
             <Link to={"/"}>
               <h2 className="font-semibold text_pri cursor-pointer md:text-3xl text-lg">
-              Cholochitro kothon
+              Cholochittro kothon
               </h2>
             </Link>
           </div>
