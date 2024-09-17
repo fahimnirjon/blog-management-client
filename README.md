@@ -1,4 +1,4 @@
-# MERN Stack Project
+# MERN Full Stack Project
 
 ## Movie Blogs Website
 
