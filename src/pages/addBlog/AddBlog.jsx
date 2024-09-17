@@ -146,7 +146,7 @@ const AddBlog = () => {
             <Option value="Mystery">Mystery</Option>
             <Option value="Thriller">Thriller</Option>
             <Option value="Tv Series">Tv Series</Option>
-            <Option value=""></Option>
+            <Option value="Mini TV">Mini TV</Option>
           </Select>
           {/* error message */}
           <span className="text-red-500">{error}</span>
