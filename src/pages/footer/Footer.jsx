@@ -45,9 +45,9 @@ function Footer() {
               &copy; {currentYear}{" "}
               <a
                 className="text-center"
-                href="https://roushan-sheik.netlify.app"
+                href="#"
               >
-                Fahim Nirjon
+               &copy; Fahim Nirjon
               </a>
               . All Rights Reserved.
             </Typography>
