@@ -1,6 +1,6 @@
 # MERN Stack Project
 
-## Book House App
+## Movie Blogs Website
 
 <img src="./cinema ghor.png" />
 
