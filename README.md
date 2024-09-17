@@ -21,7 +21,7 @@ npm run dev
 #### Live link: https://blog-management-84ed9.web.app
 
 
-<p>Hi there I am Fahim Nirjon. I have developed this CinemaGhor blog management app. Most important features are You can register an account and you can login by your google account . after login you can do blog post and you can read all the blogs. After that you can comment on a blog and you can add a blog to your wishlist those are the features of this application.</p>
+<p>Hi there I am Fahim Nirjon. I have developed this Cholochittro Kothon blog management app. Most important features are You can register an account and you can login by your google account . after login you can do blog post and you can read all the blogs. After that you can comment on a blog and you can add a blog to your wishlist those are the features of this application.</p>
 
 ### Used tools & Technologies
 
