@@ -51,4 +51,4 @@ npm run dev
 - [LinkedIn]
 
 - [Facebook]
-- [Twitter]
+- [Twitter](https://x.com/Fahim_Nirjon04)
