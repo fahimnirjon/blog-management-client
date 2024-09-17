@@ -21,7 +21,7 @@ const NewsLetter = () => {
         <Title
           title={"Subscribe To Our NewsLetter "}
           description={
-            "Welcome to CinemaGhor, your ultimate destination for all things cinema! Subscribe to our newsletter and embark on a journey through the captivating world of movies. From exclusive behind-the-scenes insights to in-depth film analysis."
+            "Welcome to Cholochittro Kothon, your ultimate destination for all things cinema! Subscribe to our newsletter and embark on a journey through the captivating world of movies. From exclusive behind-the-scenes insights to in-depth film analysis."
           }
         />
       </motion.div>
